@@ -11,7 +11,6 @@ Group:		Development/C++
 Url:		http://www.arnoldarts.de/drupal/?q=Cpp2LaTeX
 Source:		http://www.arnoldarts.de/drupal/files/downloads/cpp2latex/%{name}-%{version}.tar.bz2
 BuildRequires:	flex
-Buildroot:	%{_tmppath}/%{name}-buildroot
 Requires:	tetex-latex
 
 %description
