@@ -1,6 +1,6 @@
 %define name cpp2latex
 %define version 2.3
-%define release %mkrel 1
+%define release 2
 
 Summary:	Converts C/C++ code to a LaTeX file
 Name:		%{name}
