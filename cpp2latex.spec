@@ -8,7 +8,7 @@ Version:	%{version}
 Release:	%{release}
 License:	GPL
 Group:		Development/C++
-Url:		http://www.arnoldarts.de/drupal/?q=Cpp2LaTeX
+Url:		https://www.arnoldarts.de/drupal/?q=Cpp2LaTeX
 Source0:	http://www.arnoldarts.de/drupal/files/downloads/cpp2latex/%{name}-%{version}.tar.bz2
 BuildRequires:	flex
 Requires:	tetex-latex
